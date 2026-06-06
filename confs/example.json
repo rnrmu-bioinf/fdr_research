@@ -1,0 +1,9 @@
+{
+    "n_iterations": 10,             
+    "n_samples": 100,              
+    "n_features": 500,            
+    "correlation": 0.8,
+    "save_all_plots": true,
+    "seed": null,
+    "alpha": 0.05
+}
